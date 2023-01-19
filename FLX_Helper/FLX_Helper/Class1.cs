@@ -4,7 +4,7 @@
     {
         public Class1()
         {
-            Console.WriteLine("Hello Helper classes");
+            Console.WriteLine("Hello Helper clas");
         }
     }
 }
